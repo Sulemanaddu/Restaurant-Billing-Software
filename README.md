@@ -42,7 +42,18 @@ This project is a Windows Forms-based Restaurant Billing Software designed to st
 
 ## screenshot 
 
-![{EE0CB25B-57CF-44B7-BC82-19208E39FFD1}](https://github.com/user-attachments/assets/39310a94-5ad3-416f-8329-3b79b1444d58)
+1.AdminRegistration:- ![Screenshot_20241207_111337](https://github.com/user-attachments/assets/dd67657f-e288-42d4-8438-16919b7df020)
+ 
+2.LoginPage:- ![Screenshot_20241207_111222](https://github.com/user-attachments/assets/7c663067-822b-4edc-aad2-98aab9cdf4fe)
+
+3. Home:- ![Screenshot_20241207_111204](https://github.com/user-attachments/assets/7bd316db-3acb-4d57-a74e-fe969a03a663)
+   
+4.AddUpdateDelete:- ![Screenshot_20241207_111359](https://github.com/user-attachments/assets/6c3320b9-901f-461a-a61a-f7ab00c31e8c)
+
+5.BillingPage:- ![Screenshot_20241105_032144](https://github.com/user-attachments/assets/4c64a218-0ce8-40f0-8315-64dafc3ed2dc)
+
+6. TotalOrders:-![Screenshot_20241207_111638](https://github.com/user-attachments/assets/17592ead-589c-4553-b25c-bf9139fd8362)
+
 
 
 ## Contributing
