@@ -40,6 +40,10 @@ This project is a Windows Forms-based Restaurant Billing Software designed to st
 3. **Generate Bills**: On the "Billing" page, select food items to generate a bill. Choose the payment method and print the bill.
 4. **View Bill History**: Go to the "History" section to search and view previous bills by date and time.
 
+## screenshot 
+
+![{EE0CB25B-57CF-44B7-BC82-19208E39FFD1}](https://github.com/user-attachments/assets/39310a94-5ad3-416f-8329-3b79b1444d58)
+
 
 ## Contributing
 
