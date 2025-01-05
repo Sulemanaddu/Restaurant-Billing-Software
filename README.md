@@ -50,9 +50,10 @@ This project is a Windows Forms-based Restaurant Billing Software designed to st
    
 4.AddUpdateDelete:- ![Screenshot_20241207_111359](https://github.com/user-attachments/assets/6c3320b9-901f-461a-a61a-f7ab00c31e8c)
 
-5.BillingPage:- ![Screenshot_20241105_032144](https://github.com/user-attachments/assets/4c64a218-0ce8-40f0-8315-64dafc3ed2dc)
+5.BillingPage:- ![Picsart_25-01-05_08-28-53-766](https://github.com/user-attachments/assets/8d88d2d5-3a0a-4aa3-a063-3706aa1599da)
 
 6. TotalOrders:-![Screenshot_20241207_111638](https://github.com/user-attachments/assets/17592ead-589c-4553-b25c-bf9139fd8362)
+
    
 7. Bill:- ![Screenshot_20241213_123916](https://github.com/user-attachments/assets/ec742234-86c1-4fe1-b30e-5ac7f2aa4e93)
 
