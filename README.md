@@ -54,7 +54,7 @@ This project is a Windows Forms-based Restaurant Billing Software designed to st
 
 6. TotalOrders:-![Screenshot_20241207_111638](https://github.com/user-attachments/assets/17592ead-589c-4553-b25c-bf9139fd8362)
    
-7. Bill:- ![Screenshot_20241106_115232](https://github.com/user-attachments/assets/0e3c1919-564c-483b-915a-f745cc6acd1a)
+7. Bill:- ![Screenshot_20241213_123916](https://github.com/user-attachments/assets/ec742234-86c1-4fe1-b30e-5ac7f2aa4e93)
 
 
 
